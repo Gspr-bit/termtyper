@@ -2,12 +2,9 @@
 
 # Termtyper 🖮
 
-_A typing application to level up your fingers!_
+This is a fork from https://github.com/kraanzu/termtyper
 
-[![GitHub issues](https://img.shields.io/github/issues/kraanzu/termtyper?color=red&style=for-the-badge)](https://github.com/kraanzu/termtyper/issues)
-[![GitHub stars](https://img.shields.io/github/stars/kraanzu/termtyper?color=green&style=for-the-badge)](https://github.com/kraanzu/termtyper/stargazers)
-[![GitHub license](https://img.shields.io/github/license/kraanzu/termtyper?color=yellow&style=for-the-badge)](https://github.com/kraanzu/termtyper/blob/main/LICENSE)
-[![Support Server](https://img.shields.io/discord/989186205025464390.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/WA2ER9MBWa)
+The difference is that this one gives better messages because the original one gives so very rude messages :angry: so this one is much better.
 
 # Installation 🔨
 
@@ -26,25 +23,6 @@ git clone https://github.com/kraanzu/termtyper.git
 cd termtyper
 pip3 install .
 ```
-
-> Or maybe You use Arch btw?
-
-```
-paru -S termtyper-git
-```
-
-And then simply type `termtyper` in your terminal to launch it.. ezy pzy
-
-> ⚠️ Note: Config file for `termtyper` is located at your $XDG_CONFIG_HOME (or ~/.config/termtyper)
-
-> ⚠️ Note: You must use python version >=3.10
-
-## Not Familiar with Python?
-
-> Visit our [Actions](https://github.com/kraanzu/termtyper/actions/workflows/app.yml) page and get Artifacts (all executable files!) from the latest run!
-
-Statues: [![Python application](https://github.com/kraanzu/termtyper/actions/workflows/app.yml/badge.svg)](https://github.com/kraanzu/termtyper/actions/workflows/app.yml)
-
 # Features 🌟
 
 > Some features that termtyper comes with:

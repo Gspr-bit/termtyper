@@ -67,15 +67,15 @@ class RaceHUD(Widget):
             )
 
         if self.speed <= self.low:
-            return "Lame!"
+            return "I'm sure you can do better"
         elif self.speed <= self.med:
-            return "When are you going to take this seriously ?"
+            return "Practice makes the master"
         elif self.speed < self.high:
-            return "You are still at your medium speed!"
+            return "You're slowly getting there!"
         elif self.speed == self.high:
-            return "Ah so close! Got to push a bit more"
+            return "You're almost getting there!"
         else:
-            return "Ah yes! `Pushing past your limits` I see"
+            return "You're breaking your own limits!"
 
     def reset(self) -> None:
         """
